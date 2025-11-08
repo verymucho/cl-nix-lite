@@ -131,19 +131,17 @@
     "alexandria": {
       "flake": false,
       "locked": {
-        "host": "gitlab.common-lisp.net",
         "lastModified": 1706204274,
         "narHash": "sha256-vPHp/dXX24zUPF1t7EdBryzqlG33A0fOoD5loFOxAEs=",
-        "owner": "alexandria",
-        "repo": "alexandria",
+        "ref": "refs/heads/master",
         "rev": "8514d8e68ed0c733abf7f96f9e91b24912686dc4",
-        "type": "gitlab"
+        "revCount": 304,
+        "type": "git",
+        "url": "https://gitlab.common-lisp.net/alexandria/alexandria.git"
       },
       "original": {
-        "host": "gitlab.common-lisp.net",
-        "owner": "alexandria",
-        "repo": "alexandria",
-        "type": "gitlab"
+        "type": "git",
+        "url": "https://gitlab.common-lisp.net/alexandria/alexandria.git"
       }
     },
     "alien-ring": {
@@ -261,19 +259,17 @@
     "asdf": {
       "flake": false,
       "locked": {
-        "host": "gitlab.common-lisp.net",
-        "lastModified": 1727371251,
+        "lastModified": 1750435549,
         "narHash": "sha256-QAhV9Rs2I5SqRWDtatIIuY11sTKYfnMfhf0Nqta8l6c=",
-        "owner": "asdf",
-        "repo": "asdf",
-        "rev": "9d1e1fa761215c2f833b072b227fded31b137881",
-        "type": "gitlab"
+        "ref": "refs/heads/master",
+        "rev": "acfaef0a4c7ebdc9bf7e4bd65f33086fdf76ec0c",
+        "revCount": 4102,
+        "type": "git",
+        "url": "https://gitlab.common-lisp.net/asdf/asdf.git"
       },
       "original": {
-        "host": "gitlab.common-lisp.net",
-        "owner": "asdf",
-        "repo": "asdf",
-        "type": "gitlab"
+        "type": "git",
+        "url": "https://gitlab.common-lisp.net/asdf/asdf.git"
       }
     },
     "asdf-flv": {
@@ -2240,19 +2236,17 @@
     "iterate": {
       "flake": false,
       "locked": {
-        "host": "gitlab.common-lisp.net",
-        "lastModified": 1703814168,
-        "narHash": "sha256-1qkaZbghNAHj7/FsuJXNqREjJdsGXEDu4WHMclz7oWU=",
-        "owner": "iterate",
-        "repo": "iterate",
-        "rev": "26cf129a03b45d6dd7d2a659622244d20a9ab6f5",
-        "type": "gitlab"
+        "lastModified": 1751572348,
+        "narHash": "sha256-K0/y4jT9NR/gh5nWXKLZoNagXslrFtETq7Jv980D+iI=",
+        "ref": "refs/heads/master",
+        "rev": "d27d7ff4821b9d8b011afaaa866d7993942430f4",
+        "revCount": 90,
+        "type": "git",
+        "url": "https://gitlab.common-lisp.net/iterate/iterate.git"
       },
       "original": {
-        "host": "gitlab.common-lisp.net",
-        "owner": "iterate",
-        "repo": "iterate",
-        "type": "gitlab"
+        "type": "git",
+        "url": "https://gitlab.common-lisp.net/iterate/iterate.git"
       }
     },
     "jonathan": {
